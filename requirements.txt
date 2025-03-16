@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pypdf
+pymupdf
+pandas
+tiktoken
+unstructured
